@@ -1,8 +1,8 @@
 {
-    "name": "beyondcode/laravel-credentials",
+    "name": "thuiorg/laravel-credentials",
     "description": "Store and access encrypted credentials in your Laravel application.",
     "keywords": [
-        "beyondcode",
+        "thuiorg",
         "laravel-credentials"
     ],
     "homepage": "https://github.com/beyondcode/laravel-credentials",
